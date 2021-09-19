@@ -1,0 +1,14 @@
+{
+    "name": "随便",
+    "description": "随便",
+    "logo":"随便",
+    "keywords": ["随便"],
+    "env": {
+        "UUID": {
+            "description": "Xray UUID,随机生成uuid的网�?> (https://www.uuidgenerator.net/) ",
+            "required": true        
+        }
+    },
+    "repository": "https://github.com/tsf5ds7hfase/tjdjgfdxs
+    "stack": "container"
+}
